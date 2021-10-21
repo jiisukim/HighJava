@@ -1,0 +1,4 @@
+if(memService == null) {
+//			memService = new MemberServiceImpl();
+//		}
+//		return memService;

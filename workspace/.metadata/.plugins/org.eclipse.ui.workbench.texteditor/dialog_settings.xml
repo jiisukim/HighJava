@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="729" key="DIALOG_X_ORIGIN"/>
+		<item value="403" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Connector" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="Connector"/>
+			<item value="conn"/>
+			<item value="http"/>
+			<item value="8080"/>
+			<item value="utf"/>
+			<item value="updateBoard"/>
+			<item value="update"/>
+			<item value="DeleteMemberServlet"/>
+			<item value="insert"/>
+			<item value="ViewMemberServlet"/>
+			<item value="detail"/>
+			<item value="?"/>
+			<item value="web.xml"/>
+			<item value="/member/list"/>
+			<item value="SqlMapClientFactory"/>
+		</list>
+		<list key="replacehistory">
+			<item value="MemberVO"/>
+			<item value="Vo"/>
+			<item value="vo"/>
+			<item value="BoardVO"/>
+			<item value="SqlMapClient smc"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="400" key="DIALOG_HEIGHT"/>
+		<item value="34" key="DIALOG_X_ORIGIN"/>
+		<item value="247" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
